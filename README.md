@@ -1,1 +1,3 @@
 # shelter2022
+
+The project of the website for the animal **shelter**, carried out as part of the **RS School 2022** training course. Part 3 of the JS assignment has not been implemented in the project at the moment. Updated ...
